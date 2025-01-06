@@ -1,0 +1,5 @@
+echo "enter the 1st no"
+read a
+echo "enter the 2nd no"
+read b
+echo "the sum of 2 no's is $((a+b))"
